@@ -16,15 +16,13 @@ keyboard_spin_ru = ReplyKeyboardMarkup(
 
 keyboard_main_menu_ru = ReplyKeyboardMarkup(
     keyboard=[
-        [KeyboardButton(text=buttons_loc['main_menu_play_ru']),
-         KeyboardButton(text=buttons_loc['main_menu_thanks_ru'])]
+        [KeyboardButton(text=buttons_loc['main_menu_play_ru'])] # ,KeyboardButton(text=buttons_loc['main_menu_thanks_ru'])
     ]
 )
 
 keyboard_main_menu_admin_ru = ReplyKeyboardMarkup(
     keyboard=[
-        [KeyboardButton(text=buttons_loc['main_menu_play_ru']),
-         KeyboardButton(text=buttons_loc['main_menu_thanks_ru'])],
+        [KeyboardButton(text=buttons_loc['main_menu_play_ru'])], # ,KeyboardButton(text=buttons_loc['main_menu_thanks_ru'])
         [KeyboardButton(text=buttons_loc['main_menu_admin_ru'])]
     ]
 )

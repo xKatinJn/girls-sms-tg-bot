@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94ee7836-5d36-44f9-a0ab-5eb6b705d506" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chatting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyboards.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/localization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +46,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LikeCRM" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -130,16 +128,25 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602085484861">
+    <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602089522379">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1602085484861" />
+    <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1602089522379" />
     <state x="1110" y="355" width="660" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602073434495">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="1110" y="355" width="660" height="403" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1602073434495" />
+    <state x="800" y="295" width="309" height="523" key="EnvironmentVariablesDialog" timestamp="1602088465537">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="800" y="295" width="309" height="523" key="EnvironmentVariablesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1602088465537" />
+    <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1602173687822">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1602173687822" />
     <state width="1897" height="187" key="GridCell.Tab.0.bottom" timestamp="1602085488836">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
